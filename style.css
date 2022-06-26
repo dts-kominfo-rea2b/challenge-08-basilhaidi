@@ -1,0 +1,25 @@
+body {
+  margin-top: 8em;
+  background-color: #51557e;
+}
+
+#todo-title {
+  background-color: aqua;
+  text-align: center;
+}
+
+#todo-subtitle {
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+#app {
+  color: #353a40;
+  background-color: #ffff;
+  margin: auto;
+  width: 24em;
+  padding: 0.5em 1.5em 16em 1.5em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 1em;
+  transition: 0.3s;
+}
